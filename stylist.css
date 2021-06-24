@@ -1,0 +1,26 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:white ;
+    
+    color:black;
+}
+
+.container{
+    
+    text-align: center;
+}
+.one{
+    background-color:blue;
+    font-weight: bolder;
+    border-radius: 30px;
+    color:white;
+    letter-spacing: 1px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    
+}
+
+
+
+
